@@ -15,7 +15,7 @@
  - Github: https://github.com/ryansong
 
  - 期望职位：iOS高级程序员
- - 期望薪资：税前月薪16k~20k，
+ - 期望薪资：税前月薪16k~20k
 
 ---
 
